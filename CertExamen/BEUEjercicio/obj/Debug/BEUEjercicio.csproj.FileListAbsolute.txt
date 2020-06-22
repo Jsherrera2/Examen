@@ -1,0 +1,11 @@
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\bin\Debug\BEUEjercicio.dll.config
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\bin\Debug\BEUEjercicio.dll
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\bin\Debug\BEUEjercicio.pdb
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\bin\Debug\EntityFramework.dll
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\bin\Debug\EntityFramework.xml
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CopyComplete
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\obj\Debug\BEUEjercicio.dll
+C:\Users\STALIN\source\repos\CertExamen\BEUEjercicio\obj\Debug\BEUEjercicio.pdb

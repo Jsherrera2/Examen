@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Categorias">
+      <EntityTypeMapping TypeName="DBModel.Categoria">
+        <MappingFragment StoreEntitySet="Categoria">
+          <ScalarProperty Name="id_cat" ColumnName="id_cat" />
+          <ScalarProperty Name="nombre_cat" ColumnName="nombre_cat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Libroes">
+      <EntityTypeMapping TypeName="DBModel.Libro">
+        <MappingFragment StoreEntitySet="Libro">
+          <ScalarProperty Name="id_lib" ColumnName="id_lib" />
+          <ScalarProperty Name="titulo_lib" ColumnName="titulo_lib" />
+          <ScalarProperty Name="autor_lib" ColumnName="autor_lib" />
+          <ScalarProperty Name="fecha_publicacion_lib" ColumnName="fecha_publicacion_lib" />
+          <ScalarProperty Name="num_lib" ColumnName="num_lib" />
+          <ScalarProperty Name="id_cat" ColumnName="id_cat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Videos">
+      <EntityTypeMapping TypeName="DBModel.Video">
+        <MappingFragment StoreEntitySet="Video">
+          <ScalarProperty Name="id_vid" ColumnName="id_vid" />
+          <ScalarProperty Name="titulo_vid" ColumnName="titulo_vid" />
+          <ScalarProperty Name="fecha_publicacion_vid" ColumnName="fecha_publicacion_vid" />
+          <ScalarProperty Name="formato_vid" ColumnName="formato_vid" />
+          <ScalarProperty Name="duracion_vid" ColumnName="duracion_vid" />
+          <ScalarProperty Name="id_cat" ColumnName="id_cat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
